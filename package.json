@@ -37,6 +37,5 @@
     }
   ],
   "dependencies": {
-    "reducible": "~1.0.1"
   }
 }
